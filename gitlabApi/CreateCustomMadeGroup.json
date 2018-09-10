@@ -1,0 +1,40 @@
+{
+  "group": "fsvns5",
+  "group_visibility_level": "private",
+  "groupPath": "auxe5",
+  "project": {
+    "04SprojectForTest1": "private",
+    "projectForTest2": "private",
+    "projectForTest3": "private",
+    "projectForTest4": "private"
+  },
+  "user": {
+    "nc1": {
+      "group_right": "Developer",
+      "04SprojectForTest1": "Developer",
+      "projectForTest2": "Developer",
+      "projectForTest3": "Master"
+    },
+    "asfgdf": {
+      "group_right": "Reporter",
+      "04SprojectForTest1": "Developer",
+      "projectForTest2": "Developer"
+
+    },
+    "gfasdsada": {
+      "04SprojectForTest1": "Developer",
+      "projectForTest2": "Developer",
+      "projectForTest3": "Developer",
+      "projectForTest4": "Developer"
+    },
+    "kingoftangtou": {
+      "04SprojectForTest1": "Developer"
+    },
+    "ligoudan": {
+      "04SprojectForTest1": "Reporter",
+      "projectForTest2": "Reporter",
+      "projectForTest3": "Reporter",
+      "projectForTest4": "Reporter"
+    }
+  }
+}
